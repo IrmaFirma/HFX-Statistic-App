@@ -1,6 +1,6 @@
 # HFX Statistic App
 The Complete App for a client  
-The app is design to organize trade and investment records and entries.   
+The app is designed to organize trade and investment records and entries.   
 ![Screenshot (133)](https://user-images.githubusercontent.com/66248314/110621744-dc8b5e80-819a-11eb-9bc7-fe8448b5c596.png)  
 ![Screenshot (135)](https://user-images.githubusercontent.com/66248314/110621754-df864f00-819a-11eb-8ec9-20e7d7048f72.png)  
 Users have ability to add Records and Entries related to specific Records.    
