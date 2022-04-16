@@ -1,4 +1,4 @@
-# HFX Statistic App
+# HFX Statistic App in Flutter
 The Complete App for a client  
 The app is designed to organize trade and investment records and entries.   
 ![Screenshot (133)](https://user-images.githubusercontent.com/66248314/110621744-dc8b5e80-819a-11eb-9bc7-fe8448b5c596.png)  
